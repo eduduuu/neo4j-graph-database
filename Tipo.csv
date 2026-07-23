@@ -1,0 +1,6 @@
+id:ID,nome
+T1,String
+T2,Inteiro
+T3,Decimal
+T4,Data
+T5,Booleano

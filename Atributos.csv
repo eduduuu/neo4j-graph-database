@@ -1,0 +1,60 @@
+id:ID,nome
+A1,Nome
+A2,Método
+A3,Complexidade
+A4,Pseudocódigo
+A5,Nome
+A6,Tipo de alocação
+A7,Complexidade
+A8,Inserção
+A9,Busca
+A10,Nome
+A11,tipo de aresta
+A12,Diagrama
+A13,tipo de consumo de grafo
+A14,Linguagem
+A15,Link documentação
+A16,Nome
+A17,Data criação
+A18,Pseudocódigo
+A19,Área
+A20,Empresa
+A21,Problema resolvido
+A22,Licença
+A23,Nome
+A24,Sistema Operacional
+A25,Memória RAM
+A26,Memória Secundária
+A27,Processador
+A28,GPU
+A29,Quantidade de Núcleos
+A30,Nós Numa
+A31,Nome
+A32,Versão
+A33,Área
+A34,Tamanho do arquivo
+A35,Quantidade de arestas
+A36,Quantidade de vértices
+A37,Direcionado
+A38,Valorado
+A39,DOI
+A40,Data
+A41,Título
+A42,CPF
+A43,Nome
+A44,Cargo
+A45,ORCID
+A46,Instituição
+A47,Área de pesquisa
+A48,Nome
+A49,Edição
+A50,Instituição
+A51,Área
+A52,Tipo
+A53,Páginas
+A54,Data
+A55,Local
+A56,Nome
+A57,Data de Fundação
+A58,Localização
+A59,tempo

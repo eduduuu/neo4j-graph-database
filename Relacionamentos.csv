@@ -1,0 +1,18 @@
+id:ID,nome
+R1,Aplica
+R2,Implementa (Estrutura-Framework)
+R3,Implementa (Framework-Algoritmo)
+R4,Usa (Algoritmo-Aplicação)
+R5,Usa (Aplicação-Aplicação)
+R6,Usa (Aplicação-Pessoa)
+R7,Benchmark
+R8,Avalia (Dataset-Artigo)
+R9,Avalia (Algoritmo-Artigo)
+R10,Publica
+R11,Mantêm (Instituição-Dataset)
+R12,Possui (Instituição-Ambiente)
+R13,Pertence
+R14,Mantêm (Instituição-Veículo)
+R15,Especialização (Pessoa-Pesquisador)
+R16,Especialização (Veículo-Revista)
+R17,Especialização (Veículo-Conferência)
